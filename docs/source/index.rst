@@ -22,3 +22,4 @@ Contents
    api
    modular
 
+Lumache hosts its documentation on Read the Docs.
